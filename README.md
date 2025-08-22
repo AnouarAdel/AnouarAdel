@@ -14,11 +14,11 @@ AI Engineer with a focus on deep learning fundamentals and their application in 
 
 ### Selected Projects
 
-| Project | Description | Key Achievement |
-|---|---|---|
-| **NeuralDetect** | A full-stack CV system for automated package damage detection. | **1st Place, Innovpost Hackathon** (Team Lead) |
-| **QasidaGPT** | A cross-platform mobile app using LLMs to generate and analyze Arabic poetry. | **Finalist, ALLAM Challenge** |
-| **Urban Footprint Detection**| My Master's thesis using GNNs to segment building footprints from satellite data. | **91.9% Recall** |
-| **VisionGuard AI**| A deep learning application to detect Diabetic Retinopathy. | Solved a critical data imbalance problem. |
+| Project | Description |
+|---|---|
+| **NeuralDetect** | A full-stack CV system for automated package damage detection. |
+| **QasidaGPT** | A cross-platform mobile app using LLMs to generate and analyze Arabic poetry. |
+| **Urban Footprint Detection**| My Master's thesis using GNNs to segment building footprints from satellite data. |
+| **VisionGuard AI**| A deep learning application to detect Diabetic Retinopathy. |
 
 > *For a full list of my work, please see my pinned repositories.*
